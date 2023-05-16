@@ -1,0 +1,5 @@
+langchain==0.0.170
+lxml==4.9.2
+Requests==2.30.0
+websockets==11.0.3
+openai==0.27.6
